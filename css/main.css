@@ -44,7 +44,10 @@
 /* services */
 .services {}
 
-.services .box {}
+.services .box {
+    text-align: center;
+    margin-bottom: 50px;
+}
 
 .services .box-img {}
 
@@ -54,44 +57,55 @@
 
 .services .box-content p {}
 
+/* work */
+.work {}
+
+.work .work-box {}
+
+.work .work-img {}
+
+.work .work-img img {}
+
+.work .work-content {
+    margin-top: 20px;
+}
+
+.work .work-content h6 {
+    font-size: 15px;
+    color: #687898;
+    margin-bottom: 10px;
+}
+
+.work .work-content h4 {
+    font-size: 24px;
+    color: #323258;
+    font-weight: 700;
+}
+
 /* what */
-.what{
-    
-}
-.what .info-box{
+.what {}
 
-}
-.what .info-box h5{
+.what .info-box {}
 
-}
-.what .info-box p{
+.what .info-box h5 {}
 
-}
-.what .info-box h4{
+.what .info-box p {}
 
-}
+.what .info-box h4 {}
 
 /* blog */
-.blog{
-    
-}
-.blog .blog-img{
+.blog {}
 
-}
-.blog .blog-img img{
+.blog .blog-img {}
 
-}
-.blog .blog-content{
+.blog .blog-img img {}
 
-}
-.blog .blog-content h6{
+.blog .blog-content {}
 
-}
-.blog .blog-content h4{
+.blog .blog-content h6 {}
 
-}
-.blog .blog-content p{
+.blog .blog-content h4 {}
 
-}
+.blog .blog-content p {}
 
 /* contact */
