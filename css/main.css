@@ -1,0 +1,97 @@
+/* header */
+
+/* about */
+.about {}
+
+.section-title {}
+
+.section-title h3 {}
+
+.about h6 {}
+
+.about h5 {}
+
+.about h2 {}
+
+.about .content {}
+
+.about .content p {
+    font-size: 18px;
+    line-height: 1.7;
+
+}
+
+.about ul {
+    list-style-type: none;
+}
+
+.about ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.about ul span {}
+
+.about ul label {
+    font-weight: 600;
+    color: #323258;
+
+}
+
+/* resume */
+.resume {}
+
+/* services */
+.services {}
+
+.services .box {}
+
+.services .box-img {}
+
+.services .box-content {}
+
+.services .box-content h4 {}
+
+.services .box-content p {}
+
+/* what */
+.what{
+    
+}
+.what .info-box{
+
+}
+.what .info-box h5{
+
+}
+.what .info-box p{
+
+}
+.what .info-box h4{
+
+}
+
+/* blog */
+.blog{
+    
+}
+.blog .blog-img{
+
+}
+.blog .blog-img img{
+
+}
+.blog .blog-content{
+
+}
+.blog .blog-content h6{
+
+}
+.blog .blog-content h4{
+
+}
+.blog .blog-content p{
+
+}
+
+/* contact */
