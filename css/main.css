@@ -345,7 +345,11 @@
     padding-top: 60px;
     padding-bottom: 60px;
 }
-
+.what-icon {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+}
 .what .info-box {
     padding: 36px 48px;
     background: #F2F6FF;
@@ -353,6 +357,18 @@
     text-align: center;
     max-width: 650px;
     margin: 0 auto;
+}
+.what-icon i{
+    width: 96px;
+    height: 96px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: #1877F2;
+    background: #F2F6FF;
+    margin-bottom: 30px;
+    border-radius: 50%;
 }
 .what .info-box .star-icon{
     justify-content: center;
