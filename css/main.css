@@ -210,7 +210,7 @@
 .logo-icon i {
     font-size: 50px;
     margin-top: 22px;
-    
+
 }
 
 .logo-icon p {
@@ -345,11 +345,13 @@
     padding-top: 60px;
     padding-bottom: 60px;
 }
+
 .what-icon {
     text-align: center;
     max-width: 700px;
     margin: 0 auto;
 }
+
 .what .info-box {
     padding: 36px 48px;
     background: #F2F6FF;
@@ -358,7 +360,8 @@
     max-width: 650px;
     margin: 0 auto;
 }
-.what-icon i{
+
+.what-icon i {
     width: 96px;
     height: 96px;
     display: inline-flex;
@@ -370,11 +373,13 @@
     margin-bottom: 30px;
     border-radius: 50%;
 }
-.what .info-box .star-icon{
+
+.what .info-box .star-icon {
     justify-content: center;
     color: #1877F2;
     margin-bottom: 30px;
 }
+
 .what .info-box h5 {}
 
 .what .info-box p {
@@ -433,4 +438,69 @@
 }
 
 /* contact */
+.contact {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
 
+.form-content {
+    margin-bottom: 30px;
+}
+
+.contact-info {
+    margin-bottom: 50px;
+}
+
+.contact-info .email {
+    text-decoration: none;
+    background: rgba(225, 67, 247, 0.08);
+}
+
+.contact .phone {
+    text-decoration: none;
+    background: rgba(24, 119, 242, 0.08);
+}
+
+.contact img {
+    margin-right: 15px;
+}
+
+.contact-form .form-content .form-control {
+    box-shadow: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #C5CFE4;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.contact-form .form-floating {
+    margin-bottom: 30px;
+}
+
+/* footer */
+.social-link {}
+
+.footer .social-link a {
+    text-decoration: none;
+    width: 36px;
+    height: 36px;
+    border: 1px solid #1877F2;
+    color: #1877F2;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.social-link a:hover {
+    background: #1877F2;
+    color: white;
+}
+
+/*  */
+.footer {
+    border-top: 1px solid #C5CFE4;
+    padding: 12px 0;
+}
